@@ -1,4 +1,4 @@
-#Tool-Moumen.py - Tool-M v4.0
+#Lzymux.py - lazymux v4.0
 ##
 import os, sys 
 import readline
